@@ -1,4 +1,4 @@
-package com.vueSpring.board_project.controller;
+package com.vueSpring.board_project.board.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
