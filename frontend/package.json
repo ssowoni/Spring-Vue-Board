@@ -13,7 +13,9 @@
     "bootstrap-vue-3": "^0.5.1",
     "core-js": "^3.8.3",
     "cors": "^2.8.5",
+    "dayjs": "^1.11.7",
     "vue": "^3.2.47",
+    "vue-moment": "^4.1.0",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
