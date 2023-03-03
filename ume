@@ -1,0 +1,29 @@
+[33mcommit 9c04c28d8a9c215e4b516c72ce21d9f7feb33913[m[33m ([m[1;36mHEAD -> [m[1;32mpreUpload[m[33m, [m[1;31morigin/preUpload[m[33m, [m[1;32mmain[m[33m)[m
+Author: sowon <thdnjs0946@naver.com>
+Date:   Fri Feb 24 09:52:29 2023 +0900
+
+    [2023-02-24] 게시판 목록 조회까지 완료
+
+[33mcommit 1e833e4aee494f9d60d918a0a3a83ca4ef9a6cf0[m
+Author: sowon <thdnjs0946@naver.com>
+Date:   Wed Feb 22 16:39:13 2023 +0900
+
+    [2023-02-22] 데이터 삽입, 백단 만듬, 아직 목록 조회는 안 됨
+
+[33mcommit b9d0a62aa4fbd8d802f89d3176ef477bf3dcb0a0[m
+Author: sowon <thdnjs0946@naver.com>
+Date:   Tue Feb 21 17:03:50 2023 +0900
+
+    [2023-02-21] 컴포넌트, 라우터 설정 완료
+
+[33mcommit cb6875e1c7fdd1b81e38920b738f1b929b55cd10[m
+Author: sowon <thdnjs0946@naver.com>
+Date:   Mon Feb 20 16:37:07 2023 +0900
+
+    new branch
+
+[33mcommit 26a2efecac832ab91b4a54d4073177abd45d673b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: sowon <thdnjs0946@naver.com>
+Date:   Mon Feb 20 14:19:06 2023 +0900
+
+    init commit
